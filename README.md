@@ -69,11 +69,11 @@ Open C:\Windows\System32\drivers\etc\hosts with Admin privilege
 Add 127.0.0.1 laragigs-git.test
 
 2.
-Open <path to xampp installation folder>\apache\conf\extra\httpd-vhosts.conf
-Add <VirtualHost *:80>
+Open <\path to xampp installation folder>\apache\conf\extra\httpd-vhosts.conf
+Add <\VirtualHost *:80>
         DocumentRoot "D:\Programs\xampp-windows-x64-7.3.3-1-VC15\htdocs\dcs\2023\laragigs-git\public"
         ServerName laragigs-git.test
-    </VirtualHost>
+    </\VirtualHost>
 
 
 
