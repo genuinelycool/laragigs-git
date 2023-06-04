@@ -64,16 +64,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Optional Setup on Windows Machine on XAMPP
-1.
-Open C:\Windows\System32\drivers\etc\hosts with Admin privilege
-Add 127.0.0.1 laragigs-git.test
 
-2.
-Open <\path to xampp installation folder>\apache\conf\extra\httpd-vhosts.conf
-Add <\VirtualHost *:80>
-        DocumentRoot "D:\Programs\xampp-windows-x64-7.3.3-1-VC15\htdocs\dcs\2023\laragigs-git\public"
-        ServerName laragigs-git.test
-    </\VirtualHost>
+<p>1. Open C:\Windows\System32\drivers\etc\hosts with Admin privilege</p>
+<p>Add 127.0.0.1 laragigs-git.test</p>
+
+<p>2. Open <\path to xampp installation folder>\apache\conf\extra\httpd-vhosts.conf</P>
+<p>Add <\VirtualHost *:80></p>
+        <p>   DocumentRoot "D:\Programs\xampp-windows-x64-7.3.3-1-VC15\htdocs\dcs\2023\laragigs-git\public"</p>
+        <p>   ServerName laragigs-git.test</p>
+    <p></\VirtualHost></p>
 
 
 
